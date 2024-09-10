@@ -5,7 +5,7 @@
 pi = 3.142
 
 def jejari_tinggi():
-    r = float(input("Masukkan jejari tangki air:")) 
+    r = float(input("Masukkan jejari tangki air:"))  
     h = float(input("Masukkan tinggi tangki air:"))
     return (r, h)
 
